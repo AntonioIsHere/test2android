@@ -1,0 +1,30 @@
+<movies>
+    <movie>
+        <movieTitle>The Shawshank Redemption</movieTitle>
+        <profit>28341469</profit>
+        <movieGenre>Drama</movieGenre>
+        <releaseDate>1994-10-14</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <movieTitle>The Godfather</movieTitle>
+        <profit>245066411</profit>
+        <movieGenre>Crime</movieGenre>
+        <releaseDate>1972-03-24</releaseDate>
+        <platform>Paramount+</platform>
+    </movie>
+    <movie>
+        <movieTitle>The Dark Knight</movieTitle>
+        <profit>1004558444</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2008-07-18</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>Pulp Fiction</movieTitle>
+        <profit>213928762</profit>
+        <movieGenre>Crime</movieGenre>
+        <releaseDate>1994-10-14</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+</movies>
