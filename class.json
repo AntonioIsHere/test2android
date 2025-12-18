@@ -23,17 +23,17 @@
     "noOfPeople": 0,
     "attestationDate": "1501-03-15"
   },
-    {
+  {
     "townName": "",
     "postalCode": 247669,
     "noOfPeople": 8,
-    "attestationDate": "1501-03-15"
+    "attestationDate": "1801-03-15"
   },
    {
     "townName": "Mihaiesti",
     "postalCode": 247459,
     "noOfPeople": 8,
-    "attestationDate": "1506-03-15"
+    "attestationDate": "1565-03-15"
   },
   {
    "townName": "Horezu",
@@ -42,6 +42,7 @@
     "attestationDate": "1354-03-15"
   }
 ]
+
 
 
 
