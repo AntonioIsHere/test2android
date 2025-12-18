@@ -2,26 +2,27 @@
   {
     "townName": "Greci",
     "postalCode": 247341,
-    "noOfPeople": 12,
-    "attestationDate": "2021-03-15"
+    "noOfPeople": 24,
+    "attestationDate": "1501-03-15"
   },
   {
-   "townName": "Greci",
-    "postalCode": 247341,
-    "noOfPeople": 12,
-    "attestationDate": "2021-03-15"
+   "townName": "Popesti",
+    "postalCode": 247364,
+    "noOfPeople": 67,
+    "attestationDate": "1450-03-15"
   },
   {
-  "townName": "Greci",
-    "postalCode": 247341,
-    "noOfPeople": 12,
-    "attestationDate": "2021-03-15"
+  "townName": "Milostea",
+    "postalCode": 247391,
+    "noOfPeople": 105,
+    "attestationDate": "1658-03-15"
   },
   {
-   "townName": "Greci",
-    "postalCode": 247341,
-    "noOfPeople": 12,
-    "attestationDate": "2021-03-15"
+   "townName": "Horezu",
+    "postalCode": 247357,
+    "noOfPeople": 398,
+    "attestationDate": "1354-03-15"
   }
 ]
+
 
