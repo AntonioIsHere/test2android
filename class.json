@@ -18,11 +18,30 @@
     "attestationDate": "1658-03-15"
   },
   {
+    "townName": "Kala",
+    "postalCode": 247679,
+    "noOfPeople": 0,
+    "attestationDate": "1501-03-15"
+  },
+    {
+    "townName": "",
+    "postalCode": 247669,
+    "noOfPeople": 8,
+    "attestationDate": "1501-03-15"
+  },
+   {
+    "townName": "Mihaiesti",
+    "postalCode": 247459,
+    "noOfPeople": 8,
+    "attestationDate": "1506-03-15"
+  },
+  {
    "townName": "Horezu",
     "postalCode": 247357,
     "noOfPeople": 398,
     "attestationDate": "1354-03-15"
   }
 ]
+
 
 
