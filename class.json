@@ -2,46 +2,29 @@
   {
     "townName": "Greci",
     "postalCode": 247341,
-    "noOfPeople": 24,
+    "noOfPeople": 869,
     "attestationDate": "1501-03-15"
   },
   {
    "townName": "Popesti",
     "postalCode": 247364,
-    "noOfPeople": 67,
+    "noOfPeople": 670,
     "attestationDate": "1450-03-15"
   },
   {
   "townName": "Milostea",
     "postalCode": 247391,
-    "noOfPeople": 105,
+    "noOfPeople": 405,
     "attestationDate": "1658-03-15"
-  },
-  {
-    "townName": "Kala",
-    "postalCode": 247679,
-    "noOfPeople": 0,
-    "attestationDate": "1501-03-15"
-  },
-  {
-    "townName": "",
-    "postalCode": 247669,
-    "noOfPeople": 8,
-    "attestationDate": "1801-03-15"
-  },
-   {
-    "townName": "Mihaiesti",
-    "postalCode": 247459,
-    "noOfPeople": 8,
-    "attestationDate": "1565-03-15"
   },
   {
    "townName": "Horezu",
     "postalCode": 247357,
-    "noOfPeople": 398,
+    "noOfPeople": 2395,
     "attestationDate": "1354-03-15"
   }
 ]
+
 
 
 
